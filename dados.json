@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "local": "Laboratório 03",
+        "equipamento": "Ar-condicionado",
+        "consumo_kwh": 150.4,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 2,
+        "local": "Sala de Informática",
+        "equipamento": "Computadores",
+        "consumo_kwh": 120.7,
+        "mes_referencia": "2026-09",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 3,
+        "local": "Biblioteca",
+        "equipamento": "Lâmpadas",
+        "consumo_kwh": 65.3,
+        "mes_referencia": "2026-09",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 4,
+        "local": "Sala de aula",
+        "equipamento": "Projetor",
+        "consumo_kwh": 210.8,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 5,
+        "local": "Sala dos Professores",
+        "equipamento": "Geladeira",
+        "consumo_kwh": 98.6,
+        "mes_referencia": "2026-09",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 7,
+        "local": "Laboratório 03",
+        "equipamento": "Ar-condicionado",
+        "consumo_kwh": 185.4,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 8,
+        "local": "Sala de aula",
+        "equipamento": "Projetor",
+        "consumo_kwh": 210.8,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 9,
+        "local": "Sala de reuniões",
+        "equipamento": "Frezzer",
+        "consumo_kwh": 75.5,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    }
+]

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rastreamento de consumo e desperdício de energia</title>
+</head>
+<body>
+
+    <header><h1>Registros dos equipamentos</h1></header>
+
+    <main>
+        <form action="http://localhost:3000/equipamentos" method="post">
+
+            <input type="text" name="local" placeholder="Local" required>
+
+            <input type="text" name="equipamento" placeholder="Equipamento" required>
+
+            <input type="number" name="consumo_kwh" step="0.01" placeholder="Consumo em kWh" required>
+
+            <input type="month" name="mes_referencia" required>
+
+            <input type="text" name="status" placeholder="Status do consumo" required>
+
+            <input type="submit" value="Enviar">
+
+        </form>
+    </main>
+
+    <footer><h2>by giulia silveira</h2></footer>
+
+</body>
+</html>
